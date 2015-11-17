@@ -738,7 +738,7 @@
 	<string id="lock_swipe">滑动按钮解锁</string>
         <string id="reboot_menu_system">重启系统</string>
 	<string id="backup_system">System/系统 (%tw_backup_system_size% MB)</string>
-	<string id="head">中文TWRP  版本%tw_version%</string>
+	<string id="head">中文TWRP  版本%tw_version%   作者：Apr20th</string>
 	<string id="head_long">中文TWRP  版本%tw_version%</string>
 	<string id="head_short">中文TWRP  版本%tw_version%</string>
 	<string id="advanced_terminal_command">终端命令</string>
